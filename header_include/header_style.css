@@ -1,0 +1,144 @@
+#menumainc
+{
+		position:relative;
+	float: right;
+	margin-right:15px;
+	margin-top:10px;
+	width:auto;
+	height:33px;
+	display:inline-block;
+	overflow: hidden;
+	
+}
+
+/* navigation */
+#menumainc ul { width: 608px;  height: 30px;}
+#menumainc ul li { float: left; margin-left:2px;}
+#menumainc ul li a { display: block; line-height: 30px; color:#787878 ; font-size: 16px; font-weight:bold; font-family: Arial, Helvetica, sans-serif; text-decoration: none;  text-align: center; width: 100px; font-family:Arial, Helvetica, sans-serif;}
+#menumainc ul li a.navactive { 
+width: 98px;
+background-color:#24aed9;color:#FFF;
+			border: #24aed9 solid 1px; 
+	 border-radius:1ex;
+  -webkit-border-radius:1ex;
+  -moz-border-radius:1ex;
+}
+#menumainc ul li a.navnonactive { background-color: transparent;}
+#menumainc ul li a:hover { 
+width: 98px;
+background-color:#009fd6; color:#FFF;
+	border: #009fd6 solid 1px; 
+	 border-radius:1ex;
+  -webkit-border-radius:1ex;
+  -moz-border-radius:1ex;
+}
+/* end of navigation */
+
+#topl1
+{
+	position:relative;
+	margin:0;
+	width:100%;
+	height:26px;
+	display:inline-block;
+	background-color:#ebebeb;
+	overflow:hidden;
+
+	
+}
+#gsti
+{
+	position:relative;
+	float:left;
+	margin-left:15px;
+	width:110px;
+	height:26px;
+	display:inline-block;
+
+}
+
+#gsttext
+{
+	position:relative;
+	float:left;
+	margin-left:5px;
+	width:250px;
+	height:18px;
+	margin-top:4px;
+	font-size:14px;
+	color:#666666;
+	display:inline-block;
+
+}
+.llt
+{
+	text-decoration:none;
+	color:#009fd6;
+	margin-left:16px;
+
+}
+#combotopbar a:hover { 
+color: #F00;
+}
+#topl2
+{
+	position:relative;
+	margin:0;
+	width:100%;
+	height:26px;
+	display:inline-block;
+	overflow:hidden;
+
+	
+}
+.langdiv
+{
+	position: relative;
+	float:right;
+	margin-right:15px;
+
+height:18px;
+	margin-top:4px;
+	font-size:14px;
+}
+#langSelector
+{
+	background-color:#ebebeb;
+	color:#000000;
+}
+#combotopbar
+{
+		position:relative;
+	float: right;
+	margin-right:15px;
+	height:18px;
+	margin-top:6px;
+	font-size:12px;
+	color:#009fd6;
+	display:inline-block;
+	
+}
+#langSelector
+{
+	background-color:#ebebeb;
+	color:#000000;
+}
+#ihead2
+{
+	position:relative;
+	width:100%;
+	height:95px;
+	display:inline-block;
+}
+
+#tags1
+{
+		position:relative;
+	float: left;
+	margin-left:15px;
+	height:26px;
+	font-size:26px;
+	display:inline-block;
+		margin-top:10px;
+	
+}

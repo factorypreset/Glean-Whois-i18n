@@ -1,0 +1,8 @@
+# This one works on my mac
+# put this in extras/httpd-vhosts.conf
+<VirtualHost *:80>
+    DocumentRoot "/Users/bo/Sites/gleanwhois.org"
+    ServerName gleanwhois.dev
+    ErrorLog "/private/var/log/apache2/gleanwhois.dev-error_log"
+    CustomLog "/private/var/log/apache2/gleanwhois.dev-access_log" common
+</VirtualHost>

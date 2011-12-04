@@ -1,0 +1,203 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gleanwhois\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-04 14:53-0500\n"
+"PO-Revision-Date: 2011-12-04 14:55-0500\n"
+"Last-Translator: Bo Daley <bo@factorypreset.com>\n"
+"Language-Team: RHoKboston\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /Users/bo/Sites/gleanwhois.org\n"
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:799
+msgid "Step 1: Enter a URL to research:"
+msgstr "1: Entrez un URL pour rechércher"
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:815
+msgid "Step 2: What kind of site is it?"
+msgstr "2. Quel genre de site est-ce?"
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:823
+msgid "Step 3: What can you learn about its ownership?"
+msgstr "3. Qu'est-ce que tu peut apprendre à propos du propriétaire du site?"
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:825
+msgid "<span id=\"s3link\"></span>This information tells you about who registered and owns the domain name you entered. When the screen appears, you can highlight text to search for more information."
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:831
+msgid "Step 4: What can you learn from its history?"
+msgstr "4. Qu'est-ce que tu peut apprendre de son histoire?"
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:833
+msgid "? Can you find anything in a former version of a web site that tells you more about the owners intent?"
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:839
+msgid "Step 5: Reference Materials"
+msgstr "5. Matériaux supplémentaires"
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:841
+msgid "<span id=\"s5link\"></span> can be helpful, too. Wikipedia does not have central editing and fact checking oversight, but its contributors cover a wide range of of organizations and it contains information about many public, educational, and commercial sites. What can you learn by looking here?"
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:847
+msgid "Step 6: Who else links to it?"
+msgstr "6. Qui en fait des liens?"
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:849
+msgid "<span id=\"s6link\"></span>What kinds of sites are they? Are they reputable, or not? What does this tell you about the site?"
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:855
+msgid "Step 7: Print or Download"
+msgstr "7. Imprimez ou téléchargez"
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:859
+msgid "Print or save the information you need. Select your notes and/or the WhoIs report, and whether you want to print them or save them as a PDF to your desktop."
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:862
+msgid "My Text Entry"
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:865
+msgid "Site ownership(whois)"
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:868
+msgid "Print"
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:869
+msgid "Save"
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:880
+msgid "Use this space to write notes about what you find. You can save or print this information in Step 7."
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:889
+msgid "These are usually, but not always, used by information networks or network providers."
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:890
+msgid "These are usually, but not always, used by nonprofit organizations."
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:891
+msgid "These are registered by schools and other approved educational institutions."
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:892
+msgid "These domains are owned by the government."
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:893
+msgid "These domains are used to identify informational sites, and are usually commercial in nature."
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:894
+msgid "We don't have information about this kind of site."
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:895
+msgid "Although anyone may register these domains, they are usually used by state and local governments."
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:896
+msgid " Whois Information"
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:897
+msgid " history"
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:898
+msgid " References"
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:899
+msgid " sites that link here."
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:931
+msgid "Ownership Results"
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:934
+msgid "<div style='margin: 4px'><p>The information in the  Registration and Search results box show who owns, administers, and serves as the technical contact for the domain. <i>Sometimes, this information is hidden on purpose.</i></p></div>"
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:937
+msgid "<div style='margin-left: 4px'>Questions to ask</p></div>"
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:940
+msgid "<div style='margin-left: 4px'><p>What does WhoIs tell you about the owner? Is the owner an individual, a company, or another third party? Is the owner choosing to stay private? Why might someone make that choice? Is this an old or new registration? Does the ownership suggest anything about the site's content? </p></div>"
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:945
+msgid "<div style='margin-left: 4px'>Summary of WhoIs Information</p></div>"
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:948
+msgid "<div style='margin-left: 4px'><p>Domain Name - Confirms the name of the domain you are looking at.<br/>Created on/updated/expiration: When registration first happened/was last updated/expires.<br/>Sponsoring registrar - The company through which the domain was registered.<br/>Registrant name/email - The name/email of the person who registered the domain.<br/>Admin Name/Admin email- The person/email who administrates the domain.<br/>Tech Name/Tech email- The technical contact/email for the domain.<br/>Name Server - The machine that matches the name with an actual IP address.<br/> </p></div>"
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:952
+msgid "<div style='margin-left: 4px'>Registration and Search Results:</div>"
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:958
+msgid "<div style='margin-left: 4px'>Ownership</div>"
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:967
+msgid "Your Search Results"
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:977
+#: /Users/bo/Sites/gleanwhois.org/index.php:982
+msgid "Glean WhoIs Research Report"
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:978
+msgid "Site:"
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/index.php:980
+msgid "Findings:"
+msgstr ""
+
+#: /Users/bo/Sites/gleanwhois.org/stuff/navigation.php:47
+msgid "Home"
+msgstr "Chez toi"
+
+#: /Users/bo/Sites/gleanwhois.org/stuff/navigation.php:48
+msgid "Lessons"
+msgstr "Leçons"
+
+#: /Users/bo/Sites/gleanwhois.org/stuff/navigation.php:49
+msgid "Other Tools"
+msgstr "Autres outils"
+
+#: /Users/bo/Sites/gleanwhois.org/stuff/navigation.php:50
+msgid "Help"
+msgstr "Aidez-moi"
+
+#: /Users/bo/Sites/gleanwhois.org/stuff/navigation.php:51
+msgid "About"
+msgstr "Nous"
+
+#: /Users/bo/Sites/gleanwhois.org/stuff/navigation.php:60
+msgid "Glean Whois provides a framework for looking at information about who has registered and owns a domain name on the Web."
+msgstr "Glean Whois offre une structure pour analyser des informations à propos de l'enregistrement et de la propriété d'un nom de domaine sur l'internet."
+

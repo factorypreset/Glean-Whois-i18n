@@ -1,0 +1,224 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+padding:-0px;
+margin:0px;
+}
+
+
+
+#sidebar_related_tools {
+	width:22px;
+	height:123px;
+	background:url(../sidebar_img/sidebar_related_tools.jpg) no-repeat;
+	cursor:pointer;
+	position:fixed;
+	left:00px;
+	top:295px;
+}
+#sidebar_popup {
+	width:121px;
+	height:306px;
+	background:url(../sidebar_img/sidebar_bgd.png) no-repeat;
+	position:fixed;
+	left:50px;
+	top:240px;
+}
+#sidebar_popup a {
+	text-decoration:none;
+	color:#000;
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+	text-align:center;
+}
+#sidebar_popup a:hover {
+	color:#fff;
+}
+#sidebar_popup img {
+	border:none;
+}
+#sidebar_popup ul {
+	padding:0px;
+	margin:0px;
+	margin-left:-10px;
+	list-style:none;
+}
+#sidebar_popup li {
+	padding:0px;
+	margin:0px;
+	text-align:center;
+	margin-top:30px;
+}
+#watchus_dialog {
+	display:none;
+	
+}
+#watchus_dialog_left {
+	width:95px;
+	float:left;
+}
+#watchus_dialog_left img {
+	padding:8px;
+}
+#watchus_dialog_right {
+	width:425px;
+	float:left;
+}
+#inventit_dialog {
+	display:none;
+}
+#inventit_dialog_left {
+	width:90px;
+	
+	float:left;
+	overflow:hidden;
+}
+#inventit_dialog_left img {
+	padding:8px;
+}
+#inventit_dialog_right {
+	width:410px;
+	float:left;
+	overflow:hidden;
+}
+#loveit_dialog {
+	display:none;
+}
+#loveit_dialog_left {
+	width:95px;
+	float:left;
+	overflow:hidden;
+}
+#loveit_dialog_left img {
+	padding:8px;
+}
+#loveit_dialog_right {
+	width:425px;
+	float:left;
+	overflow:hidden;
+}
+
+#statedisctrictschool_box {
+	display:block;
+	background:#fff;
+}
+
+
+
+
+
+
+
+.dialog_title {
+	padding:0px;
+	margin:0px;
+	margin-top:25px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:24px;
+	color:#000;
+}
+.dialog_text {
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:14px;
+	color:#000;
+	padding:5px;
+	margin:4px;
+	padding-right:8px;
+}
+.dialog_radio_text {
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:14px;
+	color:#000;
+	padding:0px;
+	margin:0px;
+	margin-top:-10px;
+	cursor:pointer;
+}
+.dialog_input {
+	border:1px solid #000;
+	background:#fff;
+	width:200px;
+	height:25px;
+	vertical-align:middle;
+	padding:1px;
+	padding-left:5px;
+	padding-right:5px;
+	font-size:14px;
+}
+#watchus_dialog_right table {
+	border:none;
+	border-collapse:collapse;
+}
+.submit {
+	width:50px;
+	height:18px;
+	background:url(../sidebar_img/submit.jpg) no-repeat;
+	display:block;
+	border:none;
+	cursor:pointer;
+	padding-top:4px;
+}
+/* ************ SETTINGS FOR MODAL WINDOW ******************  */
+
+
+#basic-modal-content {
+	display:none;
+	
+	
+}
+/* Overlay */
+#simplemodal-overlay {
+	background-color:#000;
+	cursor:wait;
+}
+/* Container */
+#simplemodal-container {
+	width:520px;
+	color:#000;
+	background-color:#fff;
+	border:none;
+	
+	
+	
+}
+#simplemodal-container .simplemodal-data {
+	padding:0px;
+	
+	
+}
+/*#simplemodal-container code {
+	background:#141414;
+	border-left:3px solid #65B43D;
+	color:#bbb;
+	display:block;
+	font-size:12px;
+	margin-bottom:12px;
+	padding:4px 6px 6px;
+	
+	
+}*/
+/*#simplemodal-container a {color:#ddd;}*/
+#simplemodal-container a.modalCloseImg {
+	background:url(../sidebar_img/x.png) no-repeat;
+	width:25px;
+	height:29px;
+	display:inline;
+	z-index:3200;
+	position:absolute;
+	top:-15px;
+	right:-16px;
+	cursor:pointer;
+}
+/*#simplemodal-container h3 {color:#84b8d9;}*/
+
+
+
+/*#simplemodal-container {
+	cursor:move;
+}*/
+
+/* ******************************  */
